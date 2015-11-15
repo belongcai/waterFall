@@ -1,6 +1,8 @@
 # waterFall
 ## Version 1 :
-  ### 未使用ajax 使用假数据来模拟
+### 未使用ajax 使用假数据来模拟
+
+
 瀑布流布局实践 --数据块的布局和加载
   基本思路：
   1.页面*布局:div.box>div.pic>img
